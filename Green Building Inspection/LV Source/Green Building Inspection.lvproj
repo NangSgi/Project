@@ -78,6 +78,7 @@
 			<Item Name="Register Create Project View.vi" Type="VI" URL="../SubVIs/Register Create Project View.vi"/>
 			<Item Name="Register Create Sensor View.vi" Type="VI" URL="../SubVIs/Register Create Sensor View.vi"/>
 			<Item Name="Register Edit Project View.vi" Type="VI" URL="../SubVIs/Register Edit Project View.vi"/>
+			<Item Name="Register Edit Sensor View.vi" Type="VI" URL="../SubVIs/Register Edit Sensor View.vi"/>
 			<Item Name="Register Main View.vi" Type="VI" URL="../SubVIs/Register Main View.vi"/>
 			<Item Name="Register Project View.vi" Type="VI" URL="../SubVIs/Register Project View.vi"/>
 			<Item Name="Register Sensor View.vi" Type="VI" URL="../SubVIs/Register Sensor View.vi"/>
@@ -86,6 +87,7 @@
 			<Item Name="Create Project View.lvlib" Type="Library" URL="../Views/Create Project View/Create Project View.lvlib"/>
 			<Item Name="Create Sensor View.lvlib" Type="Library" URL="../Views/Create Sensor View/Create Sensor View.lvlib"/>
 			<Item Name="Edit Project View.lvlib" Type="Library" URL="../Views/Edit Project View/Edit Project View.lvlib"/>
+			<Item Name="Edit Sensor View.lvlib" Type="Library" URL="../Views/Edit Sensor View/Edit Sensor View.lvlib"/>
 			<Item Name="Main View.lvlib" Type="Library" URL="../Views/Main View/Main View.lvlib"/>
 			<Item Name="Project Charm View.lvlib" Type="Library" URL="../Views/Project Charm View/Project Charm View.lvlib"/>
 			<Item Name="Project View.lvlib" Type="Library" URL="../Views/Project View/Project View.lvlib"/>
