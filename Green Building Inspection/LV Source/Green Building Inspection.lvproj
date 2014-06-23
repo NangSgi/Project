@@ -35,6 +35,7 @@
 			<Item Name="Main Model.lvlib" Type="Library" URL="../Models/Main Model/Main Model.lvlib"/>
 			<Item Name="Project Model.lvlib" Type="Library" URL="../Models/Project Model/Project Model.lvlib"/>
 			<Item Name="Sensor Model.lvlib" Type="Library" URL="../Models/Sensor Model/Sensor Model.lvlib"/>
+			<Item Name="Test Node Model.lvlib" Type="Library" URL="../Models/Test Node Model/Test Node Model.lvlib"/>
 		</Item>
 		<Item Name="Resources" Type="Folder">
 			<Item Name="Type Def" Type="Folder">
@@ -82,6 +83,7 @@
 			<Item Name="Register Main View.vi" Type="VI" URL="../SubVIs/Register Main View.vi"/>
 			<Item Name="Register Project View.vi" Type="VI" URL="../SubVIs/Register Project View.vi"/>
 			<Item Name="Register Sensor View.vi" Type="VI" URL="../SubVIs/Register Sensor View.vi"/>
+			<Item Name="Register Test Node View.vi" Type="VI" URL="../SubVIs/Register Test Node View.vi"/>
 		</Item>
 		<Item Name="Views" Type="Folder">
 			<Item Name="Create Project View.lvlib" Type="Library" URL="../Views/Create Project View/Create Project View.lvlib"/>
@@ -93,6 +95,7 @@
 			<Item Name="Project View.lvlib" Type="Library" URL="../Views/Project View/Project View.lvlib"/>
 			<Item Name="Sensor Charm View.lvlib" Type="Library" URL="../Views/Sensor Charm View/Sensor Charm View.lvlib"/>
 			<Item Name="Sensor View.lvlib" Type="Library" URL="../Views/Sensor View/Sensor View.lvlib"/>
+			<Item Name="Test Node View.lvlib" Type="Library" URL="../Views/Test Node View/Test Node View.lvlib"/>
 		</Item>
 		<Item Name="UI Framework.vi" Type="VI" URL="../UI Framework.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">

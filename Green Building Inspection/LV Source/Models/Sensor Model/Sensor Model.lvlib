@@ -26,7 +26,7 @@
 				<Item Name="Preview Sensor Msg.lvclass" Type="LVClass" URL="../../Sensor Model Messages/Preview Sensor Msg/Preview Sensor Msg.lvclass"/>
 				<Item Name="Previous Page Msg.lvclass" Type="LVClass" URL="../../Sensor Model Messages/Previous Page Msg/Previous Page Msg.lvclass"/>
 				<Item Name="Remove Sensor Msg.lvclass" Type="LVClass" URL="../../Sensor Model Messages/Remove Sensor Msg/Remove Sensor Msg.lvclass"/>
-				<Item Name="Set Framed Project Path Msg.lvclass" Type="LVClass" URL="../../Sensor Model Messages/Set Framed Project Path Msg/Set Framed Project Path Msg.lvclass"/>
+				<Item Name="Set Framed Sensor Path Msg.lvclass" Type="LVClass" URL="../../Sensor Model Messages/Set Framed Sensor Path Msg/Set Framed Sensor Path Msg.lvclass"/>
 				<Item Name="Update Next Button Visibility Msg.lvclass" Type="LVClass" URL="../../Sensor Model Messages/Update Next Button Visibility Msg/Update Next Button Visibility Msg.lvclass"/>
 				<Item Name="Update Previous Button Visibility Msg.lvclass" Type="LVClass" URL="../../Sensor Model Messages/Update Previous Button Visibility Msg/Update Previous Button Visibility Msg.lvclass"/>
 				<Item Name="Update Tiles Info Msg.lvclass" Type="LVClass" URL="../../Sensor Model Messages/Update Tiles Info Msg/Update Tiles Info Msg.lvclass"/>

@@ -9,6 +9,7 @@
 </Property>
 	<Item Name="Build Project Directory Path.vi" Type="VI" URL="../Build Project Directory Path.vi"/>
 	<Item Name="Build Sensor Directory Path.vi" Type="VI" URL="../Build Sensor Directory Path.vi"/>
+	<Item Name="Build Test Node Directory Path.vi" Type="VI" URL="../Build Test Node Directory Path.vi"/>
 	<Item Name="Create Item Configurations.vi" Type="VI" URL="../Create Item Configurations.vi"/>
 	<Item Name="Create Project File.vi" Type="VI" URL="../Create Project File.vi"/>
 	<Item Name="Create Sensor File.vi" Type="VI" URL="../Create Sensor File.vi"/>
