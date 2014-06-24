@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><Cluster>
+<Name>Test Node Info</Name>
+<NumElts>5</NumElts>
+<String>
+<Name>Node Name</Name>
+<Val>2</Val>
+</String>
+<String>
+<Name>Node Abbreviation</Name>
+<Val>2</Val>
+</String>
+<String>
+<Name>Node Type</Name>
+<Val>模拟电流</Val>
+</String>
+<String>
+<Name>Node MAC</Name>
+<Val>2</Val>
+</String>
+<String>
+<Name>Node Description</Name>
+<Val>2</Val>
+</String>
+</Cluster>

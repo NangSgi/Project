@@ -9,7 +9,7 @@
 </Property>
 	<Item Name="Common" Type="Folder">
 		<Item Name="Side Button.ctl" Type="VI" URL="../Common/Side Button.ctl"/>
-		<Item Name="Transparent Mask.ctl" Type="VI" URL="../../../../../_GBI Old backup/Resource/UI Controls/Common/Transparent Mask.ctl"/>
+		<Item Name="Transparent Mask.ctl" Type="VI" URL="../Common/Transparent Mask.ctl"/>
 	</Item>
 	<Item Name="Dark Theme" Type="Folder">
 		<Item Name="Dark Theme.lvlib" Type="Library" URL="../Dark Theme/Dark Theme.lvlib"/>
