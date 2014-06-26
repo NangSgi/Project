@@ -30,6 +30,7 @@
 			<Item Name="Abstract Model.lvlib" Type="Library" URL="../Models/Abstract Model/Abstract Model.lvlib"/>
 			<Item Name="Create Project Model.lvlib" Type="Library" URL="../Models/Create Project Model/Create Project Model.lvlib"/>
 			<Item Name="Create Sensor Model.lvlib" Type="Library" URL="../Models/Create Sensor Model/Create Sensor Model.lvlib"/>
+			<Item Name="Create Test Channel Model.lvlib" Type="Library" URL="../Models/Create Test Channel Model/Create Test Channel Model.lvlib"/>
 			<Item Name="Create Test Node Model.lvlib" Type="Library" URL="../Models/Create Test Node Model/Create Test Node Model.lvlib"/>
 			<Item Name="Edit Project Model.lvlib" Type="Library" URL="../Models/Edit Project Model/Edit Project Model.lvlib"/>
 			<Item Name="Edit Sensor Model.lvlib" Type="Library" URL="../Models/Edit Sensor Model/Edit Sensor Model.lvlib"/>
@@ -83,6 +84,7 @@
 			<Item Name="Launch Views.vi" Type="VI" URL="../SubVIs/Launch Views.vi"/>
 			<Item Name="Register Create Project View.vi" Type="VI" URL="../SubVIs/Register Create Project View.vi"/>
 			<Item Name="Register Create Sensor View.vi" Type="VI" URL="../SubVIs/Register Create Sensor View.vi"/>
+			<Item Name="Register Create Test Channel View.vi" Type="VI" URL="../SubVIs/Register Create Test Channel View.vi"/>
 			<Item Name="Register Create Test Node View.vi" Type="VI" URL="../SubVIs/Register Create Test Node View.vi"/>
 			<Item Name="Register Edit Project View.vi" Type="VI" URL="../SubVIs/Register Edit Project View.vi"/>
 			<Item Name="Register Edit Sensor View.vi" Type="VI" URL="../SubVIs/Register Edit Sensor View.vi"/>
@@ -96,6 +98,7 @@
 		<Item Name="Views" Type="Folder">
 			<Item Name="Create Project View.lvlib" Type="Library" URL="../Views/Create Project View/Create Project View.lvlib"/>
 			<Item Name="Create Sensor View.lvlib" Type="Library" URL="../Views/Create Sensor View/Create Sensor View.lvlib"/>
+			<Item Name="Create Test Channel View.lvlib" Type="Library" URL="../Views/Create Test Channel View/Create Test Channel View.lvlib"/>
 			<Item Name="Create Test Node View.lvlib" Type="Library" URL="../Views/Create Test Node View/Create Test Node View.lvlib"/>
 			<Item Name="Edit Project View.lvlib" Type="Library" URL="../Views/Edit Project View/Edit Project View.lvlib"/>
 			<Item Name="Edit Sensor View.lvlib" Type="Library" URL="../Views/Edit Sensor View/Edit Sensor View.lvlib"/>
@@ -105,6 +108,7 @@
 			<Item Name="Project View.lvlib" Type="Library" URL="../Views/Project View/Project View.lvlib"/>
 			<Item Name="Sensor Charm View.lvlib" Type="Library" URL="../Views/Sensor Charm View/Sensor Charm View.lvlib"/>
 			<Item Name="Sensor View.lvlib" Type="Library" URL="../Views/Sensor View/Sensor View.lvlib"/>
+			<Item Name="Test Channel Charm View.lvlib" Type="Library" URL="../Views/Test Channel Charm View/Test Channel Charm View.lvlib"/>
 			<Item Name="Test Channel View.lvlib" Type="Library" URL="../Views/Test Channel View/Test Channel View.lvlib"/>
 			<Item Name="Test Node Charm View.lvlib" Type="Library" URL="../Views/Test Node Charm View/Test Node Charm View.lvlib"/>
 			<Item Name="Test Node View.lvlib" Type="Library" URL="../Views/Test Node View/Test Node View.lvlib"/>

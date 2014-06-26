@@ -3,18 +3,18 @@
 <NumElts>4</NumElts>
 <String>
 <Name>Channel Name</Name>
-<Val>2</Val>
+<Val>4</Val>
 </String>
 <String>
 <Name>Channel ID</Name>
-<Val>2</Val>
+<Val>通道 4</Val>
 </String>
 <String>
 <Name>Channel Sensor Name</Name>
-<Val>2</Val>
+<Val>传感器 4</Val>
 </String>
 <String>
 <Name>Channel Description</Name>
-<Val>2</Val>
+<Val>4</Val>
 </String>
 </Cluster>
