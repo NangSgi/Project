@@ -3,7 +3,7 @@
 <NumElts>38</NumElts>
 <String>
 <Name>Project Name</Name>
-<Val>12</Val>
+<Val>项目12</Val>
 </String>
 <String>
 <Name>Project Description</Name>
@@ -19,67 +19,67 @@
 </String>
 <String>
 <Name>Project Province</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Project City</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Project Address</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Building Type</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Project Type</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Climate Classification</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Construction Unit</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Building Area</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Identification Type</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Identification Level</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Communication Address</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Principal</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Principal Telephone</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Construction Committee</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>CC Principal</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>CC Principal Telephone</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Construction Date</Name>
@@ -91,66 +91,66 @@
 </String>
 <String>
 <Name>Spec 1</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Spec 2</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Spec 3</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Spec 4</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Spec 5</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Spec 6</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Spec 7</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Spec 8</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Spec 9</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Spec 10</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Spec 11</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Spec 12</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Spec 13</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Spec 14</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Spec 15</Name>
-<Val></Val>
+<Val/>
 </String>
 <String>
 <Name>Spec 16</Name>
-<Val></Val>
+<Val/>
 </String>
 </Cluster>

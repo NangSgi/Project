@@ -7,6 +7,7 @@
 	<Item Name="Messages of This Actor" Type="Folder">
 		<Item Name="Outbound" Type="Folder">
 			<Item Name="Data" Type="Folder">
+				<Item Name="Conceret Edit Test Channel Sensor Names Msg.lvclass" Type="LVClass" URL="../../Edit Test Channel View Messages/Conceret Edit Test Channel Sensor Names Msg/Conceret Edit Test Channel Sensor Names Msg.lvclass"/>
 				<Item Name="Conceret Initialize Edit Test Channel Msg.lvclass" Type="LVClass" URL="../../Edit Test Channel View Messages/Conceret Initialize Edit Test Channel Msg/Conceret Initialize Edit Test Channel Msg.lvclass"/>
 			</Item>
 		</Item>

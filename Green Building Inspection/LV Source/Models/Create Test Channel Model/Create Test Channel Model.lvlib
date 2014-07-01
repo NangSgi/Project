@@ -7,8 +7,10 @@
 	<Item Name="Messages of This Actor" Type="Folder">
 		<Item Name="Inbound" Type="Folder">
 			<Item Name="Cmd" Type="Folder">
+				<Item Name="Register Create Test Channel Sensor Names Msg.lvclass" Type="LVClass" URL="../../Create Test Channel Model Messages/Register Create Test Channel Sensor Names Msg/Register Create Test Channel Sensor Names Msg.lvclass"/>
 				<Item Name="Register Initialize Create Test Channel Msg.lvclass" Type="LVClass" URL="../../Create Test Channel Model Messages/Register Initialize Create Test Channel Msg/Register Initialize Create Test Channel Msg.lvclass"/>
 				<Item Name="Register Set Create Test Channel Key Focus Msg.lvclass" Type="LVClass" URL="../../Create Test Channel Model Messages/Register Set Create Test Channel Key Focus Msg/Register Set Create Test Channel Key Focus Msg.lvclass"/>
+				<Item Name="Unregister Create Test Channel Sensor Names Msg.lvclass" Type="LVClass" URL="../../Create Test Channel Model Messages/Unregister Create Test Channel Sensor Names Msg/Unregister Create Test Channel Sensor Names Msg.lvclass"/>
 				<Item Name="Unregister Initialize Create Test Channel Msg.lvclass" Type="LVClass" URL="../../Create Test Channel Model Messages/Unregister Initialize Create Test Channel Msg/Unregister Initialize Create Test Channel Msg.lvclass"/>
 				<Item Name="Unregister Set Create Test Channel Key Focus Msg.lvclass" Type="LVClass" URL="../../Create Test Channel Model Messages/Unregister Set Create Test Channel Key Focus Msg/Unregister Set Create Test Channel Key Focus Msg.lvclass"/>
 			</Item>
@@ -21,8 +23,10 @@
 				<Item Name="Set Item Configurations Msg.lvclass" Type="LVClass" URL="../../Create Test Channel Model Messages/Set Item Configurations Msg/Set Item Configurations Msg.lvclass"/>
 				<Item Name="Set Test Node Path Msg.lvclass" Type="LVClass" URL="../../Create Test Channel Model Messages/Set Test Node Path Msg/Set Test Node Path Msg.lvclass"/>
 				<Item Name="Set Test Node Type Msg.lvclass" Type="LVClass" URL="../../Create Test Channel Model Messages/Set Test Node Type Msg/Set Test Node Type Msg.lvclass"/>
+				<Item Name="Update Sensor Names Msg.lvclass" Type="LVClass" URL="../../Create Test Channel Model Messages/Update Sensor Names Msg/Update Sensor Names Msg.lvclass"/>
 			</Item>
 			<Item Name="Data" Type="Folder">
+				<Item Name="Abstract Create Test Channel Sensor Names Msg.lvclass" Type="LVClass" URL="../../Create Test Channel Model Messages/Abstract Create Test Channel Sensor Names Msg/Abstract Create Test Channel Sensor Names Msg.lvclass"/>
 				<Item Name="Abstract Initialize Create Test Channel Msg.lvclass" Type="LVClass" URL="../../Create Test Channel Model Messages/Abstract Initialize Create Test Channel Msg/Abstract Initialize Create Test Channel Msg.lvclass"/>
 				<Item Name="Abstract Set Create Test Channel Key Focus Msg.lvclass" Type="LVClass" URL="../../Create Test Channel Model Messages/Abstract Set Create Test Channel Key Focus Msg/Abstract Set Create Test Channel Key Focus Msg.lvclass"/>
 			</Item>

@@ -3,27 +3,27 @@
 <NumElts>7</NumElts>
 <String>
 <Name>Sensor Name</Name>
-<Val>2</Val>
+<Val>传感器1</Val>
 </String>
 <String>
 <Name>Sensor Description</Name>
-<Val>2</Val>
+<Val>1</Val>
 </String>
 <String>
 <Name>LV</Name>
-<Val>2</Val>
+<Val>1</Val>
 </String>
 <String>
 <Name>HV</Name>
-<Val>3</Val>
-</String>
-<String>
-<Name>LR</Name>
 <Val>2</Val>
 </String>
 <String>
+<Name>LR</Name>
+<Val>1</Val>
+</String>
+<String>
 <Name>HR</Name>
-<Val>3</Val>
+<Val>2</Val>
 </String>
 <String>
 <Name>Sensor Unit</Name>

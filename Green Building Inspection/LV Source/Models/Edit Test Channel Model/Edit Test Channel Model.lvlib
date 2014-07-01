@@ -7,7 +7,9 @@
 	<Item Name="Messages of This Actor" Type="Folder">
 		<Item Name="Inbound" Type="Folder">
 			<Item Name="Cmd" Type="Folder">
+				<Item Name="Register Edit Test Channel Sensor Names Msg.lvclass" Type="LVClass" URL="../../Edit Test Channel Model Messages/Register Edit Test Channel Sensor Names Msg/Register Edit Test Channel Sensor Names Msg.lvclass"/>
 				<Item Name="Register Initialize Edit Test Channel Msg.lvclass" Type="LVClass" URL="../../Edit Test Channel Model Messages/Register Initialize Edit Test Channel Msg/Register Initialize Edit Test Channel Msg.lvclass"/>
+				<Item Name="Unregister Edit Test Channel Sensor Names Msg.lvclass" Type="LVClass" URL="../../Edit Test Channel Model Messages/Unregister Edit Test Channel Sensor Names Msg/Unregister Edit Test Channel Sensor Names Msg.lvclass"/>
 				<Item Name="Unregister Initialize Edit Test Channel Msg.lvclass" Type="LVClass" URL="../../Edit Test Channel Model Messages/Unregister Initialize Edit Test Channel Msg/Unregister Initialize Edit Test Channel Msg.lvclass"/>
 			</Item>
 		</Item>
@@ -18,8 +20,10 @@
 				<Item Name="Save Test Channel Msg.lvclass" Type="LVClass" URL="../../Edit Test Channel Model Messages/Save Test Channel Msg/Save Test Channel Msg.lvclass"/>
 				<Item Name="Set Framed Test Channel Path Msg.lvclass" Type="LVClass" URL="../../Edit Test Channel Model Messages/Set Framed Test Channel Path Msg/Set Framed Test Channel Path Msg.lvclass"/>
 				<Item Name="Set Item Configurations Msg.lvclass" Type="LVClass" URL="../../Edit Test Channel Model Messages/Set Item Configurations Msg/Set Item Configurations Msg.lvclass"/>
+				<Item Name="Update Sensor Names Msg.lvclass" Type="LVClass" URL="../../Edit Test Channel Model Messages/Update Sensor Names Msg/Update Sensor Names Msg.lvclass"/>
 			</Item>
 			<Item Name="Data" Type="Folder">
+				<Item Name="Abstract Edit Test Channel Sensor Names Msg.lvclass" Type="LVClass" URL="../../Edit Test Channel Model Messages/Abstract Edit Test Channel Sensor Names Msg/Abstract Edit Test Channel Sensor Names Msg.lvclass"/>
 				<Item Name="Abstract Initialize Edit Test Channel Msg.lvclass" Type="LVClass" URL="../../Edit Test Channel Model Messages/Abstract Initialize Edit Test Channel Msg/Abstract Initialize Edit Test Channel Msg.lvclass"/>
 			</Item>
 		</Item>

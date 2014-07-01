@@ -7,6 +7,7 @@
 	<Item Name="Messages of This Actor" Type="Folder">
 		<Item Name="Outbound" Type="Folder">
 			<Item Name="Data" Type="Folder">
+				<Item Name="Conceret Create Test Channel Sensor Names Msg.lvclass" Type="LVClass" URL="../../Create Test Channel View Messages/Conceret Create Test Channel Sensor Names Msg/Conceret Create Test Channel Sensor Names Msg.lvclass"/>
 				<Item Name="Conceret Initialize Create Test Channel Msg.lvclass" Type="LVClass" URL="../../Create Test Channel View Messages/Conceret Initialize Create Test Channel Msg/Conceret Initialize Create Test Channel Msg.lvclass"/>
 				<Item Name="Conceret Set Create Test Channel Key Focus Msg.lvclass" Type="LVClass" URL="../../Create Test Channel View Messages/Conceret Set Create Test Channel Key Focus Msg/Conceret Set Create Test Channel Key Focus Msg.lvclass"/>
 			</Item>
