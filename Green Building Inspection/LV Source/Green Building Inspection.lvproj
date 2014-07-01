@@ -34,6 +34,7 @@
 			<Item Name="Create Test Node Model.lvlib" Type="Library" URL="../Models/Create Test Node Model/Create Test Node Model.lvlib"/>
 			<Item Name="Edit Project Model.lvlib" Type="Library" URL="../Models/Edit Project Model/Edit Project Model.lvlib"/>
 			<Item Name="Edit Sensor Model.lvlib" Type="Library" URL="../Models/Edit Sensor Model/Edit Sensor Model.lvlib"/>
+			<Item Name="Edit Test Channel Model.lvlib" Type="Library" URL="../Models/Edit Test Channel Model/Edit Test Channel Model.lvlib"/>
 			<Item Name="Edit Test Node Model.lvlib" Type="Library" URL="../Models/Edit Test Node Model/Edit Test Node Model.lvlib"/>
 			<Item Name="Main Model.lvlib" Type="Library" URL="../Models/Main Model/Main Model.lvlib"/>
 			<Item Name="Project Model.lvlib" Type="Library" URL="../Models/Project Model/Project Model.lvlib"/>
@@ -88,6 +89,7 @@
 			<Item Name="Register Create Test Node View.vi" Type="VI" URL="../SubVIs/Register Create Test Node View.vi"/>
 			<Item Name="Register Edit Project View.vi" Type="VI" URL="../SubVIs/Register Edit Project View.vi"/>
 			<Item Name="Register Edit Sensor View.vi" Type="VI" URL="../SubVIs/Register Edit Sensor View.vi"/>
+			<Item Name="Register Edit Test Channel View.vi" Type="VI" URL="../SubVIs/Register Edit Test Channel View.vi"/>
 			<Item Name="Register Edit Test Node View.vi" Type="VI" URL="../SubVIs/Register Edit Test Node View.vi"/>
 			<Item Name="Register Main View.vi" Type="VI" URL="../SubVIs/Register Main View.vi"/>
 			<Item Name="Register Project View.vi" Type="VI" URL="../SubVIs/Register Project View.vi"/>
@@ -102,6 +104,7 @@
 			<Item Name="Create Test Node View.lvlib" Type="Library" URL="../Views/Create Test Node View/Create Test Node View.lvlib"/>
 			<Item Name="Edit Project View.lvlib" Type="Library" URL="../Views/Edit Project View/Edit Project View.lvlib"/>
 			<Item Name="Edit Sensor View.lvlib" Type="Library" URL="../Views/Edit Sensor View/Edit Sensor View.lvlib"/>
+			<Item Name="Edit Test Channel View.lvlib" Type="Library" URL="../Views/Edit Test Channel View/Edit Test Channel View.lvlib"/>
 			<Item Name="Edit Test Node View.lvlib" Type="Library" URL="../Views/Edit Test Node View/Edit Test Node View.lvlib"/>
 			<Item Name="Main View.lvlib" Type="Library" URL="../Views/Main View/Main View.lvlib"/>
 			<Item Name="Project Charm View.lvlib" Type="Library" URL="../Views/Project Charm View/Project Charm View.lvlib"/>
