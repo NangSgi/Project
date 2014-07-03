@@ -1,0 +1,6 @@
+==For Create/Edit Test Node==
+1. All test node MAC should be list by API.
+2. The type of the selected node should be changed automatically.
+
+==For Create/Edit Test Channel==
+1. The test channel ID should be list by API according to the test node type.

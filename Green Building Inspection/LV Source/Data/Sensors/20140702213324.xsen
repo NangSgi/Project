@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><Cluster>
+<Name>Sensor Info</Name>
+<NumElts>7</NumElts>
+<String>
+<Name>Sensor Name</Name>
+<Val>传感器5</Val>
+</String>
+<String>
+<Name>Sensor Description</Name>
+<Val>5</Val>
+</String>
+<String>
+<Name>LV</Name>
+<Val>5</Val>
+</String>
+<String>
+<Name>HV</Name>
+<Val>6</Val>
+</String>
+<String>
+<Name>LR</Name>
+<Val>5</Val>
+</String>
+<String>
+<Name>HR</Name>
+<Val>6</Val>
+</String>
+<String>
+<Name>Sensor Unit</Name>
+<Val>V</Val>
+</String>
+</Cluster>

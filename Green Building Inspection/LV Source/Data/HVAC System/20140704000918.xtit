@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><Cluster>
+<Name>Sensor Info</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Test Item Name</Name>
+<Val>冷热源机组实际效能比</Val>
+</String>
+<String>
+<Name>View</Name>
+<Val>1</Val>
+</String>
+<String>
+<Name>Model</Name>
+<Val>1</Val>
+</String>
+</Cluster>
