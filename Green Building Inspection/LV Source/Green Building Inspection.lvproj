@@ -20,6 +20,7 @@
 			<Item Name="View Observer.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFrameworkMVC/View Observer/View Observer.lvlib"/>
 		</Item>
 		<Item Name="Common" Type="Folder">
+			<Item Name="Control Reference.lvlib" Type="Library" URL="../Common/Control Reference/Control Reference.lvlib"/>
 			<Item Name="File IO.lvlib" Type="Library" URL="../Common/File IO/File IO.lvlib"/>
 			<Item Name="Item Configuration.lvlib" Type="Library" URL="../Common/Item Configuration/Item Configuration.lvlib"/>
 		</Item>
@@ -36,6 +37,7 @@
 			<Item Name="Edit Sensor Model.lvlib" Type="Library" URL="../Models/Edit Sensor Model/Edit Sensor Model.lvlib"/>
 			<Item Name="Edit Test Channel Model.lvlib" Type="Library" URL="../Models/Edit Test Channel Model/Edit Test Channel Model.lvlib"/>
 			<Item Name="Edit Test Node Model.lvlib" Type="Library" URL="../Models/Edit Test Node Model/Edit Test Node Model.lvlib"/>
+			<Item Name="Hot And Cold Source Unit Model.lvlib" Type="Library" URL="../Models/Hot And Cold Source Unit Model/Hot And Cold Source Unit Model.lvlib"/>
 			<Item Name="HVAC System Model.lvlib" Type="Library" URL="../Models/HVAC System Model/HVAC System Model.lvlib"/>
 			<Item Name="Main Model.lvlib" Type="Library" URL="../Models/Main Model/Main Model.lvlib"/>
 			<Item Name="Project Model.lvlib" Type="Library" URL="../Models/Project Model/Project Model.lvlib"/>
@@ -112,6 +114,7 @@
 			<Item Name="Edit Sensor View.lvlib" Type="Library" URL="../Views/Edit Sensor View/Edit Sensor View.lvlib"/>
 			<Item Name="Edit Test Channel View.lvlib" Type="Library" URL="../Views/Edit Test Channel View/Edit Test Channel View.lvlib"/>
 			<Item Name="Edit Test Node View.lvlib" Type="Library" URL="../Views/Edit Test Node View/Edit Test Node View.lvlib"/>
+			<Item Name="Hot And Cold Source Unit View.lvlib" Type="Library" URL="../Views/Hot And Cold Source Unit View/Hot And Cold Source Unit View.lvlib"/>
 			<Item Name="HVAC System View.lvlib" Type="Library" URL="../Views/HVAC System View/HVAC System View.lvlib"/>
 			<Item Name="Main View.lvlib" Type="Library" URL="../Views/Main View/Main View.lvlib"/>
 			<Item Name="Project Charm View.lvlib" Type="Library" URL="../Views/Project Charm View/Project Charm View.lvlib"/>
@@ -134,10 +137,14 @@
 				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
 				<Item Name="NI_XML.lvlib" Type="Library" URL="/&lt;vilib&gt;/xml/NI_XML.lvlib"/>
 				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
+				<Item Name="TRef Traverse.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse.vi"/>
+				<Item Name="TRef TravTarget.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef TravTarget.ctl"/>
+				<Item Name="VI Scripting - Traverse.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/traverseref.llb/VI Scripting - Traverse.lvlib"/>
 			</Item>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="TRef FinderCallback.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef FinderCallback.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
