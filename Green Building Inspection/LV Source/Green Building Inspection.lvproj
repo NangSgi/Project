@@ -20,6 +20,7 @@
 			<Item Name="View Observer.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFrameworkMVC/View Observer/View Observer.lvlib"/>
 		</Item>
 		<Item Name="Common" Type="Folder">
+			<Item Name="Abstract Messages.lvlib" Type="Library" URL="../Common/Abstract Messages/Abstract Messages.lvlib"/>
 			<Item Name="Control Reference.lvlib" Type="Library" URL="../Common/Control Reference/Control Reference.lvlib"/>
 			<Item Name="File IO.lvlib" Type="Library" URL="../Common/File IO/File IO.lvlib"/>
 			<Item Name="Item Configuration.lvlib" Type="Library" URL="../Common/Item Configuration/Item Configuration.lvlib"/>
@@ -98,12 +99,14 @@
 			<Item Name="Register Edit Sensor View.vi" Type="VI" URL="../SubVIs/Register Edit Sensor View.vi"/>
 			<Item Name="Register Edit Test Channel View.vi" Type="VI" URL="../SubVIs/Register Edit Test Channel View.vi"/>
 			<Item Name="Register Edit Test Node View.vi" Type="VI" URL="../SubVIs/Register Edit Test Node View.vi"/>
+			<Item Name="Register Hot And Cold Source Unit View.vi" Type="VI" URL="../SubVIs/Register Hot And Cold Source Unit View.vi"/>
 			<Item Name="Register HVAC System View.vi" Type="VI" URL="../SubVIs/Register HVAC System View.vi"/>
 			<Item Name="Register Main View.vi" Type="VI" URL="../SubVIs/Register Main View.vi"/>
 			<Item Name="Register Project View.vi" Type="VI" URL="../SubVIs/Register Project View.vi"/>
 			<Item Name="Register Sensor View.vi" Type="VI" URL="../SubVIs/Register Sensor View.vi"/>
 			<Item Name="Register Test Channel View.vi" Type="VI" URL="../SubVIs/Register Test Channel View.vi"/>
 			<Item Name="Register Test Node View.vi" Type="VI" URL="../SubVIs/Register Test Node View.vi"/>
+			<Item Name="Set Project Path.vi" Type="VI" URL="../SubVIs/Set Project Path.vi"/>
 		</Item>
 		<Item Name="Views" Type="Folder">
 			<Item Name="Create Project View.lvlib" Type="Library" URL="../Views/Create Project View/Create Project View.lvlib"/>

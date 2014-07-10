@@ -4,5 +4,17 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Messages of This Actor" Type="Folder">
+		<Item Name="Inbound" Type="Folder">
+			<Item Name="Cmd" Type="Folder">
+				<Item Name="Initialize Parameters Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit View Messages/Initialize Parameters Msg/Initialize Parameters Msg.lvclass"/>
+			</Item>
+		</Item>
+		<Item Name="Outbound" Type="Folder">
+			<Item Name="Data" Type="Folder">
+				<Item Name="Conceret Initialize Hot And Cold Source Unit Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit View Messages/Conceret Initialize Hot And Cold Source Unit Msg/Conceret Initialize Hot And Cold Source Unit Msg.lvclass"/>
+			</Item>
+		</Item>
+	</Item>
 	<Item Name="Hot And Cold Source Unit View.lvclass" Type="LVClass" URL="../Hot And Cold Source Unit View.lvclass"/>
 </Library>

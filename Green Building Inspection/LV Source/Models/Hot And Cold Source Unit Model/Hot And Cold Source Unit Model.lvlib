@@ -4,4 +4,21 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Messages of This Actor" Type="Folder">
+		<Item Name="Inbound" Type="Folder">
+			<Item Name="Cmd" Type="Folder">
+				<Item Name="Register Initialize Hot And Cold Source Unit Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit Model Messages/Register Initialize Hot And Cold Source Unit Msg/Register Initialize Hot And Cold Source Unit Msg.lvclass"/>
+				<Item Name="Unregister Initialize Hot And Cold Source Unit Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit Model Messages/Unregister Initialize Hot And Cold Source Unit Msg/Unregister Initialize Hot And Cold Source Unit Msg.lvclass"/>
+			</Item>
+		</Item>
+		<Item Name="Outbound" Type="Folder">
+			<Item Name="Cmd" Type="Folder">
+				<Item Name="Reinitialize All Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit Model Messages/Reinitialize All Msg/Reinitialize All Msg.lvclass"/>
+			</Item>
+			<Item Name="Data" Type="Folder">
+				<Item Name="Abstract Initialize Hot And Cold Source Unit Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit Model Messages/Abstract Initialize Hot And Cold Source Unit Msg/Abstract Initialize Hot And Cold Source Unit Msg.lvclass"/>
+			</Item>
+		</Item>
+	</Item>
+	<Item Name="Hot And Cold Source Unit Model.lvclass" Type="LVClass" URL="../Hot And Cold Source Unit Model.lvclass"/>
 </Library>

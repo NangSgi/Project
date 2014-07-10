@@ -7,10 +7,10 @@
 </String>
 <String>
 <Name>View</Name>
-<Val>1</Val>
+<Val>Hot And Cold Source Unit View.lvlib:Hot And Cold Source Unit View.lvclass</Val>
 </String>
 <String>
 <Name>Model</Name>
-<Val>1</Val>
+<Val>Hot And Cold Source Unit Model.lvlib:Hot And Cold Source Unit Model.lvclass</Val>
 </String>
 </Cluster>
