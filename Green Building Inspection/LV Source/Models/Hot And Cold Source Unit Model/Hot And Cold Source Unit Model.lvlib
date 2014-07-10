@@ -8,15 +8,20 @@
 		<Item Name="Inbound" Type="Folder">
 			<Item Name="Cmd" Type="Folder">
 				<Item Name="Register Initialize Hot And Cold Source Unit Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit Model Messages/Register Initialize Hot And Cold Source Unit Msg/Register Initialize Hot And Cold Source Unit Msg.lvclass"/>
+				<Item Name="Register Test Node Map Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit Model Messages/Register Test Node Map Msg/Register Test Node Map Msg.lvclass"/>
 				<Item Name="Unregister Initialize Hot And Cold Source Unit Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit Model Messages/Unregister Initialize Hot And Cold Source Unit Msg/Unregister Initialize Hot And Cold Source Unit Msg.lvclass"/>
+				<Item Name="Unregister Test Node Map Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit Model Messages/Unregister Test Node Map Msg/Unregister Test Node Map Msg.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="Outbound" Type="Folder">
 			<Item Name="Cmd" Type="Folder">
+				<Item Name="Load Node Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit Model Messages/Load Node Msg/Load Node Msg.lvclass"/>
 				<Item Name="Reinitialize All Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit Model Messages/Reinitialize All Msg/Reinitialize All Msg.lvclass"/>
+				<Item Name="Update Test Node Map Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit Model Messages/Update Test Node Map Msg/Update Test Node Map Msg.lvclass"/>
 			</Item>
 			<Item Name="Data" Type="Folder">
 				<Item Name="Abstract Initialize Hot And Cold Source Unit Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit Model Messages/Abstract Initialize Hot And Cold Source Unit Msg/Abstract Initialize Hot And Cold Source Unit Msg.lvclass"/>
+				<Item Name="Abstract Test Node Map Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit Model Messages/Abstract Test Node Map Msg/Abstract Test Node Map Msg.lvclass"/>
 			</Item>
 		</Item>
 	</Item>

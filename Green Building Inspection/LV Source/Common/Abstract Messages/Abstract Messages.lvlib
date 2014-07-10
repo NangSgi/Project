@@ -4,5 +4,10 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Abstract Load Node Msg.lvclass" Type="LVClass" URL="../Abstract Load Node Msg.lvclass"/>
 	<Item Name="Abstract Reinitialize All Msg.lvclass" Type="LVClass" URL="../Abstract Reinitialize All Msg.lvclass"/>
+	<Item Name="Abstract Update Test Node Map Msg.lvclass" Type="LVClass" URL="../Abstract Update Test Node Map Msg.lvclass"/>
+	<Item Name="Send Load Node Msg.vi" Type="VI" URL="../Send Load Node Msg.vi"/>
+	<Item Name="Send Reinitialize All Msg.vi" Type="VI" URL="../Send Reinitialize All Msg.vi"/>
+	<Item Name="Send Update Test Node Map Msg.vi" Type="VI" URL="../Send Update Test Node Map Msg.vi"/>
 </Library>

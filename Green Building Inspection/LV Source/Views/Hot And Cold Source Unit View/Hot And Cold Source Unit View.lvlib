@@ -8,11 +8,14 @@
 		<Item Name="Inbound" Type="Folder">
 			<Item Name="Cmd" Type="Folder">
 				<Item Name="Initialize Parameters Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit View Messages/Initialize Parameters Msg/Initialize Parameters Msg.lvclass"/>
+				<Item Name="Set Test Node Map Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit View Messages/Set Test Node Map Msg/Set Test Node Map Msg.lvclass"/>
+				<Item Name="Update Test Node List Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit View Messages/Update Test Node List Msg/Update Test Node List Msg.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="Outbound" Type="Folder">
 			<Item Name="Data" Type="Folder">
 				<Item Name="Conceret Initialize Hot And Cold Source Unit Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit View Messages/Conceret Initialize Hot And Cold Source Unit Msg/Conceret Initialize Hot And Cold Source Unit Msg.lvclass"/>
+				<Item Name="Conceret Test Node Map Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit View Messages/Conceret Test Node Map Msg/Conceret Test Node Map Msg.lvclass"/>
 			</Item>
 		</Item>
 	</Item>
