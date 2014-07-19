@@ -132,7 +132,26 @@
 		</Item>
 		<Item Name="UI Framework.vi" Type="VI" URL="../UI Framework.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="user.lib" Type="Folder">
+				<Item Name="Analog Channel to String.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/Analog Channel to String.vi"/>
+				<Item Name="Analog in to Data.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/Analog in to Data.vi"/>
+				<Item Name="Command.ctl" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/CTLS/Command.ctl"/>
+				<Item Name="Creat ZDAQ AI Task.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Private/Creat/Creat ZDAQ AI Task.vi"/>
+				<Item Name="Error Converter (ErrCode).vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Error Handle/Error Converter (ErrCode).vi"/>
+				<Item Name="Gateway COM.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/Gateway COM.vi"/>
+				<Item Name="QSM-PC (String).lvlib" Type="Library" URL="/&lt;userlib&gt;/ZDAQ/QSM-PC (String)/Library/QSM-PC (String).lvlib"/>
+				<Item Name="Receive Data Decode.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/Receive Data Decode.vi"/>
+				<Item Name="Receive Reponse Msg.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/Receive Reponse Msg.vi"/>
+				<Item Name="Send Request Command.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/Send Request Command.vi"/>
+				<Item Name="Send Request Event.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/Send Request Event.vi"/>
+				<Item Name="String To ASCII.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/String To ASCII.vi"/>
+				<Item Name="ZDAQ AI Read Single.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Private/Read/ZDAQ AI Read Single.vi"/>
+				<Item Name="ZDAQ MCU.ctl" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/CTLS/ZDAQ MCU.ctl"/>
+				<Item Name="ZDAQ Task.ctl" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/CTLS/ZDAQ Task.ctl"/>
+			</Item>
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="Close Registry Key.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Close Registry Key.vi"/>
 				<Item Name="Create Directory Recursive.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Create Directory Recursive.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Get LV Class Default Value By Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value By Name.vi"/>
@@ -141,14 +160,38 @@
 				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 				<Item Name="NI_XML.lvlib" Type="Library" URL="/&lt;vilib&gt;/xml/NI_XML.lvlib"/>
+				<Item Name="Open Registry Key.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Open Registry Key.vi"/>
+				<Item Name="Read Registry Value DWORD.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Read Registry Value DWORD.vi"/>
+				<Item Name="Read Registry Value Simple STR.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Read Registry Value Simple STR.vi"/>
+				<Item Name="Read Registry Value Simple U32.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Read Registry Value Simple U32.vi"/>
+				<Item Name="Read Registry Value Simple.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Read Registry Value Simple.vi"/>
+				<Item Name="Read Registry Value STR.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Read Registry Value STR.vi"/>
+				<Item Name="Read Registry Value.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Read Registry Value.vi"/>
 				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
+				<Item Name="Registry Handle Master.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Registry Handle Master.vi"/>
+				<Item Name="Registry refnum.ctl" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Registry refnum.ctl"/>
+				<Item Name="Registry RtKey.ctl" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Registry RtKey.ctl"/>
+				<Item Name="Registry SAM.ctl" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Registry SAM.ctl"/>
+				<Item Name="Registry Simplify Data Type.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Registry Simplify Data Type.vi"/>
+				<Item Name="Registry View.ctl" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Registry View.ctl"/>
+				<Item Name="Registry WinErr-LVErr.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Registry WinErr-LVErr.vi"/>
+				<Item Name="STR_ASCII-Unicode.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/STR_ASCII-Unicode.vi"/>
 				<Item Name="TRef Traverse.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse.vi"/>
 				<Item Name="TRef TravTarget.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef TravTarget.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="VI Scripting - Traverse.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/traverseref.llb/VI Scripting - Traverse.lvlib"/>
+				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
+				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
+				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="Advapi32.dll" Type="Document" URL="Advapi32.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>

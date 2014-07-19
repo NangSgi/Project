@@ -7,6 +7,7 @@
 	<Item Name="Messages of This Actor" Type="Folder">
 		<Item Name="Inbound" Type="Folder">
 			<Item Name="Cmd" Type="Folder">
+				<Item Name="Get Channel List Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit View Messages/Get Channel List Msg/Get Channel List Msg.lvclass"/>
 				<Item Name="Initialize Parameters Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit View Messages/Initialize Parameters Msg/Initialize Parameters Msg.lvclass"/>
 				<Item Name="Set Test Node Map Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit View Messages/Set Test Node Map Msg/Set Test Node Map Msg.lvclass"/>
 				<Item Name="Update Test Node List Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit View Messages/Update Test Node List Msg/Update Test Node List Msg.lvclass"/>
@@ -15,6 +16,7 @@
 		<Item Name="Outbound" Type="Folder">
 			<Item Name="Data" Type="Folder">
 				<Item Name="Conceret Initialize Hot And Cold Source Unit Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit View Messages/Conceret Initialize Hot And Cold Source Unit Msg/Conceret Initialize Hot And Cold Source Unit Msg.lvclass"/>
+				<Item Name="Conceret Results Msg.lvclass" Type="LVClass" URL="../../../Models/Hot And Cold Source Unit Model Messages/Conceret Results Msg/Conceret Results Msg.lvclass"/>
 				<Item Name="Conceret Test Node Map Msg.lvclass" Type="LVClass" URL="../../Hot And Cold Source Unit View Messages/Conceret Test Node Map Msg/Conceret Test Node Map Msg.lvclass"/>
 			</Item>
 		</Item>

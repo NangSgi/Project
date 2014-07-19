@@ -4,3 +4,12 @@
 
 ==For Create/Edit Test Channel==
 1. The test channel ID should be list by API according to the test node type.
+
+==For Create/Edit Any Configuration Files==
+1. Cannot save file with existing one.
+
+==For Analysis==
+1. Show waiting dialog while reading data from sensor.
+
+====
+Add loading dialog.
