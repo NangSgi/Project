@@ -90,6 +90,7 @@
 			</Item>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
+			<Item Name="Launch Dialogs.vi" Type="VI" URL="../SubVIs/Launch Dialogs.vi"/>
 			<Item Name="Launch Models.vi" Type="VI" URL="../SubVIs/Launch Models.vi"/>
 			<Item Name="Launch Views.vi" Type="VI" URL="../SubVIs/Launch Views.vi"/>
 			<Item Name="Register Create Project View.vi" Type="VI" URL="../SubVIs/Register Create Project View.vi"/>
@@ -110,16 +111,20 @@
 			<Item Name="Set Project Path.vi" Type="VI" URL="../SubVIs/Set Project Path.vi"/>
 		</Item>
 		<Item Name="Views" Type="Folder">
+			<Item Name="Analyzing Dialog View.lvlib" Type="Library" URL="../Views/Analyzing Dialog View/Analyzing Dialog View.lvlib"/>
 			<Item Name="Create Project View.lvlib" Type="Library" URL="../Views/Create Project View/Create Project View.lvlib"/>
 			<Item Name="Create Sensor View.lvlib" Type="Library" URL="../Views/Create Sensor View/Create Sensor View.lvlib"/>
 			<Item Name="Create Test Channel View.lvlib" Type="Library" URL="../Views/Create Test Channel View/Create Test Channel View.lvlib"/>
 			<Item Name="Create Test Node View.lvlib" Type="Library" URL="../Views/Create Test Node View/Create Test Node View.lvlib"/>
+			<Item Name="Duplicated Channel Dialog View.lvlib" Type="Library" URL="../Views/Duplicated Channel Dialog View/Duplicated Channel Dialog View.lvlib"/>
+			<Item Name="Duplicated Node Dialog View.lvlib" Type="Library" URL="../Views/Duplicated Node Dialog View/Duplicated Node Dialog View.lvlib"/>
 			<Item Name="Edit Project View.lvlib" Type="Library" URL="../Views/Edit Project View/Edit Project View.lvlib"/>
 			<Item Name="Edit Sensor View.lvlib" Type="Library" URL="../Views/Edit Sensor View/Edit Sensor View.lvlib"/>
 			<Item Name="Edit Test Channel View.lvlib" Type="Library" URL="../Views/Edit Test Channel View/Edit Test Channel View.lvlib"/>
 			<Item Name="Edit Test Node View.lvlib" Type="Library" URL="../Views/Edit Test Node View/Edit Test Node View.lvlib"/>
 			<Item Name="Hot And Cold Source Unit View.lvlib" Type="Library" URL="../Views/Hot And Cold Source Unit View/Hot And Cold Source Unit View.lvlib"/>
 			<Item Name="HVAC System View.lvlib" Type="Library" URL="../Views/HVAC System View/HVAC System View.lvlib"/>
+			<Item Name="Loading Dialog View.lvlib" Type="Library" URL="../Views/Loading Dialog View/Loading Dialog View.lvlib"/>
 			<Item Name="Main View.lvlib" Type="Library" URL="../Views/Main View/Main View.lvlib"/>
 			<Item Name="Project Charm View.lvlib" Type="Library" URL="../Views/Project Charm View/Project Charm View.lvlib"/>
 			<Item Name="Project View.lvlib" Type="Library" URL="../Views/Project View/Project View.lvlib"/>
@@ -146,6 +151,7 @@
 				<Item Name="Send Request Event.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/Send Request Event.vi"/>
 				<Item Name="String To ASCII.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/String To ASCII.vi"/>
 				<Item Name="ZDAQ AI Read Single.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Private/Read/ZDAQ AI Read Single.vi"/>
+				<Item Name="ZDAQ Clear Task.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/ZDAQ Clear Task.vi"/>
 				<Item Name="ZDAQ MCU.ctl" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/CTLS/ZDAQ MCU.ctl"/>
 				<Item Name="ZDAQ Task.ctl" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/CTLS/ZDAQ Task.ctl"/>
 			</Item>

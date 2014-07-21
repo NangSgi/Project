@@ -17,6 +17,8 @@
 	<Item Name="Create Sensor File.vi" Type="VI" URL="../Create Sensor File.vi"/>
 	<Item Name="Create Test Channel File.vi" Type="VI" URL="../Create Test Channel File.vi"/>
 	<Item Name="Create Test Node File.vi" Type="VI" URL="../Create Test Node File.vi"/>
+	<Item Name="Duplicated Test Channel.vi" Type="VI" URL="../Duplicated Test Channel.vi"/>
+	<Item Name="Duplicated Test Node.vi" Type="VI" URL="../Duplicated Test Node.vi"/>
 	<Item Name="List Sensor Names.vi" Type="VI" URL="../List Sensor Names.vi"/>
 	<Item Name="Load File.vi" Type="VI" URL="../Load File.vi"/>
 	<Item Name="Save File.vi" Type="VI" URL="../Save File.vi"/>
