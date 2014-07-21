@@ -25,6 +25,7 @@
 			<Item Name="File IO.lvlib" Type="Library" URL="../Common/File IO/File IO.lvlib"/>
 			<Item Name="Item Configuration.lvlib" Type="Library" URL="../Common/Item Configuration/Item Configuration.lvlib"/>
 			<Item Name="Parameter.lvlib" Type="Library" URL="../Common/Parameter/Parameter.lvlib"/>
+			<Item Name="ZDAQ.lvlib" Type="Library" URL="../Common/ZDAQ/ZDAQ.lvlib"/>
 		</Item>
 		<Item Name="Controllers" Type="Folder">
 			<Item Name="Main UI Controller.lvlib" Type="Library" URL="../Controllers/Main UI Controller/Main UI Controller.lvlib"/>
@@ -140,8 +141,12 @@
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Analog Channel to String.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/Analog Channel to String.vi"/>
 				<Item Name="Analog in to Data.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/Analog in to Data.vi"/>
+				<Item Name="ASCII To String.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/ASCII To String.vi"/>
 				<Item Name="Command.ctl" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/CTLS/Command.ctl"/>
 				<Item Name="Creat ZDAQ AI Task.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Private/Creat/Creat ZDAQ AI Task.vi"/>
+				<Item Name="Creat ZDAQ CMD Task.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Private/Creat/Creat ZDAQ CMD Task.vi"/>
+				<Item Name="Decode zDAQ Device All Info.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Device/Decode/Decode zDAQ Device All Info.vi"/>
+				<Item Name="Decode_ZDAQ_NWK_GET_ASSCODEVICE_INFO.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Network/Decode/Decode_ZDAQ_NWK_GET_ASSCODEVICE_INFO.vi"/>
 				<Item Name="Error Converter (ErrCode).vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Error Handle/Error Converter (ErrCode).vi"/>
 				<Item Name="Gateway COM.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/Gateway COM.vi"/>
 				<Item Name="QSM-PC (String).lvlib" Type="Library" URL="/&lt;userlib&gt;/ZDAQ/QSM-PC (String)/Library/QSM-PC (String).lvlib"/>
@@ -152,8 +157,11 @@
 				<Item Name="String To ASCII.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/String To ASCII.vi"/>
 				<Item Name="ZDAQ AI Read Single.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Private/Read/ZDAQ AI Read Single.vi"/>
 				<Item Name="ZDAQ Clear Task.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/ZDAQ Clear Task.vi"/>
+				<Item Name="ZDAQ Engine.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Private/Creat/ZDAQ Engine.vi"/>
 				<Item Name="ZDAQ MCU.ctl" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/CTLS/ZDAQ MCU.ctl"/>
 				<Item Name="ZDAQ Task.ctl" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/CTLS/ZDAQ Task.ctl"/>
+				<Item Name="ZDAQ_DEV_ALL_INFO_GET.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Device/ZDAQ_DEV_ALL_INFO_GET.vi"/>
+				<Item Name="ZDAQ_NWK_GET_ASSCODEVICE_INFO.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Network/ZDAQ_NWK_GET_ASSCODEVICE_INFO.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>

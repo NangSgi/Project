@@ -7,8 +7,10 @@
 	<Item Name="Messages of This Actor" Type="Folder">
 		<Item Name="Inbound" Type="Folder">
 			<Item Name="Cmd" Type="Folder">
+				<Item Name="Register Create Test Node List Msg.lvclass" Type="LVClass" URL="../../Create Test Node Model Messages/Register Create Test Node List Msg/Register Create Test Node List Msg.lvclass"/>
 				<Item Name="Register Initialize Create Test Node Msg.lvclass" Type="LVClass" URL="../../Create Test Node Model Messages/Register Initialize Create Test Node Msg/Register Initialize Create Test Node Msg.lvclass"/>
 				<Item Name="Register Set Create Test Node Key Focus Msg.lvclass" Type="LVClass" URL="../../Create Test Node Model Messages/Register Set Create Test Node Key Focus Msg/Register Set Create Test Node Key Focus Msg.lvclass"/>
+				<Item Name="Unregister Create Test Node List Msg.lvclass" Type="LVClass" URL="../../Create Test Node Model Messages/Unregister Create Test Node List Msg/Unregister Create Test Node List Msg.lvclass"/>
 				<Item Name="Unregister Initialize Create Test Node Msg.lvclass" Type="LVClass" URL="../../Create Test Node Model Messages/Unregister Initialize Create Test Node Msg/Unregister Initialize Create Test Node Msg.lvclass"/>
 				<Item Name="Unregister Set Create Test Node Key Focus Msg.lvclass" Type="LVClass" URL="../../Create Test Node Model Messages/Unregister Set Create Test Node Key Focus Msg/Unregister Set Create Test Node Key Focus Msg.lvclass"/>
 			</Item>
@@ -17,11 +19,13 @@
 			<Item Name="Cmd" Type="Folder">
 				<Item Name="Create Test Node Msg.lvclass" Type="LVClass" URL="../../Create Test Node Model Messages/Create Test Node Msg/Create Test Node Msg.lvclass"/>
 				<Item Name="Key Focus Msg.lvclass" Type="LVClass" URL="../../Create Test Node Model Messages/Key Focus Msg/Key Focus Msg.lvclass"/>
+				<Item Name="List Test Node MAC Msg.lvclass" Type="LVClass" URL="../../Create Test Node Model Messages/List Test Node MAC Msg/List Test Node MAC Msg.lvclass"/>
 				<Item Name="Reinitialize All Msg.lvclass" Type="LVClass" URL="../../Create Test Node Model Messages/Reinitialize All Msg/Reinitialize All Msg.lvclass"/>
 				<Item Name="Set Item Configurations Msg.lvclass" Type="LVClass" URL="../../Create Test Node Model Messages/Set Item Configurations Msg/Set Item Configurations Msg.lvclass"/>
 				<Item Name="Set Test Node Project Path Msg.lvclass" Type="LVClass" URL="../../Create Test Node Model Messages/Set Test Node Project Path Msg/Set Test Node Project Path Msg.lvclass"/>
 			</Item>
 			<Item Name="Data" Type="Folder">
+				<Item Name="Abstract Create Test Node List Msg.lvclass" Type="LVClass" URL="../../Create Test Node Model Messages/Abstract Create Test Node List Msg/Abstract Create Test Node List Msg.lvclass"/>
 				<Item Name="Abstract Initialize Create Test Node Msg.lvclass" Type="LVClass" URL="../../Create Test Node Model Messages/Abstract Initialize Create Test Node Msg/Abstract Initialize Create Test Node Msg.lvclass"/>
 				<Item Name="Abstract Set Create Test Node Key Focus Msg.lvclass" Type="LVClass" URL="../../Create Test Node Model Messages/Abstract Set Create Test Node Key Focus Msg/Abstract Set Create Test Node Key Focus Msg.lvclass"/>
 			</Item>
