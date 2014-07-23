@@ -7,6 +7,7 @@
 	<Item Name="Messages of This Actor" Type="Folder">
 		<Item Name="Outbound" Type="Folder">
 			<Item Name="Data" Type="Folder">
+				<Item Name="Conceret Create Test Node List Msg.lvclass" Type="LVClass" URL="../../Create Test Node View Messages/Conceret Create Test Node List Msg/Conceret Create Test Node List Msg.lvclass"/>
 				<Item Name="Conceret Initialize Create Test Node Msg.lvclass" Type="LVClass" URL="../../Create Test Node View Messages/Conceret Initialize Create Test Node Msg/Conceret Initialize Create Test Node Msg.lvclass"/>
 				<Item Name="Conceret Set Create Test Node Key Focus Msg.lvclass" Type="LVClass" URL="../../Create Test Node View Messages/Conceret Set Create Test Node Key Focus Msg/Conceret Set Create Test Node Key Focus Msg.lvclass"/>
 			</Item>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><Cluster>
+<Name>Test Channel Info</Name>
+<NumElts>4</NumElts>
+<String>
+<Name>Channel Name</Name>
+<Val>测试通道1</Val>
+</String>
+<String>
+<Name>Channel ID</Name>
+<Val>0</Val>
+</String>
+<String>
+<Name>Channel Sensor Name</Name>
+<Val>传感器1</Val>
+</String>
+<String>
+<Name>Channel Description</Name>
+<Val>1</Val>
+</String>
+</Cluster>

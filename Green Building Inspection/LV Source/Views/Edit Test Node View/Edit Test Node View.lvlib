@@ -7,6 +7,7 @@
 	<Item Name="Messages of This Actor" Type="Folder">
 		<Item Name="Outbound" Type="Folder">
 			<Item Name="Data" Type="Folder">
+				<Item Name="Conceret Edit Test Node List Msg.lvclass" Type="LVClass" URL="../../Edit Test Node View Messages/Conceret Edit Test Node List Msg/Conceret Edit Test Node List Msg.lvclass"/>
 				<Item Name="Conceret Initialize Edit Test Node Msg.lvclass" Type="LVClass" URL="../../Edit Test Node View Messages/Conceret Initialize Edit Test Node Msg/Conceret Initialize Edit Test Node Msg.lvclass"/>
 			</Item>
 		</Item>

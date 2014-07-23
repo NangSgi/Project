@@ -7,19 +7,23 @@
 	<Item Name="Messages of This Actor" Type="Folder">
 		<Item Name="Inbound" Type="Folder">
 			<Item Name="Cmd" Type="Folder">
+				<Item Name="Register Edit Test Node List Msg.lvclass" Type="LVClass" URL="../../Edit Test Node Model Messages/Register Edit Test Node List Msg/Register Edit Test Node List Msg.lvclass"/>
 				<Item Name="Register Initialize Edit Test Node Msg.lvclass" Type="LVClass" URL="../../Edit Test Node Model Messages/Register Initialize Edit Test Node Msg/Register Initialize Edit Test Node Msg.lvclass"/>
+				<Item Name="Unregister Edit Test Node List Msg.lvclass" Type="LVClass" URL="../../Edit Test Node Model Messages/Unregister Edit Test Node List Msg/Unregister Edit Test Node List Msg.lvclass"/>
 				<Item Name="Unregister Initialize Edit Test Node Msg.lvclass" Type="LVClass" URL="../../Edit Test Node Model Messages/Unregister Initialize Edit Test Node Msg/Unregister Initialize Edit Test Node Msg.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="Outbound" Type="Folder">
 			<Item Name="Cmd" Type="Folder">
 				<Item Name="Initialize Edit Test Node Msg.lvclass" Type="LVClass" URL="../../Edit Test Node Model Messages/Initialize Edit Test Node Msg/Initialize Edit Test Node Msg.lvclass"/>
+				<Item Name="List Test Node MAC Msg.lvclass" Type="LVClass" URL="../../Edit Test Node Model Messages/List Test Node MAC Msg/List Test Node MAC Msg.lvclass"/>
 				<Item Name="Load Test Node Msg.lvclass" Type="LVClass" URL="../../Edit Test Node Model Messages/Load Test Node Msg/Load Test Node Msg.lvclass"/>
 				<Item Name="Save Test Node Msg.lvclass" Type="LVClass" URL="../../Edit Test Node Model Messages/Save Test Node Msg/Save Test Node Msg.lvclass"/>
 				<Item Name="Set Framed Test Node Path Msg.lvclass" Type="LVClass" URL="../../Edit Test Node Model Messages/Set Framed Test Node Path Msg/Set Framed Test Node Path Msg.lvclass"/>
 				<Item Name="Set Item Configurations Msg.lvclass" Type="LVClass" URL="../../Edit Test Node Model Messages/Set Item Configurations Msg/Set Item Configurations Msg.lvclass"/>
 			</Item>
 			<Item Name="Data" Type="Folder">
+				<Item Name="Abstract Edit Test Node List Msg.lvclass" Type="LVClass" URL="../../Edit Test Node Model Messages/Abstract Edit Test Node List Msg/Abstract Edit Test Node List Msg.lvclass"/>
 				<Item Name="Abstract Initialize Edit Test Node Msg.lvclass" Type="LVClass" URL="../../Edit Test Node Model Messages/Abstract Initialize Edit Test Node Msg/Abstract Initialize Edit Test Node Msg.lvclass"/>
 			</Item>
 		</Item>

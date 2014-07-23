@@ -60,6 +60,7 @@
 			<Item Name="UI Controls" Type="Folder">
 				<Item Name="Add Tile.ctl" Type="VI" URL="../Resources/UI Controls/Add Tile.ctl"/>
 				<Item Name="Add.ctl" Type="VI" URL="../Resources/UI Controls/Add.ctl"/>
+				<Item Name="Analysis.ctl" Type="VI" URL="../Resources/UI Controls/Analysis.ctl"/>
 				<Item Name="Back.ctl" Type="VI" URL="../Resources/UI Controls/Back.ctl"/>
 				<Item Name="Big Textbox.ctl" Type="VI" URL="../Resources/UI Controls/Big Textbox.ctl"/>
 				<Item Name="Calendar Button.ctl" Type="VI" URL="../Resources/UI Controls/Calendar Button.ctl"/>
@@ -141,7 +142,6 @@
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Analog Channel to String.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/Analog Channel to String.vi"/>
 				<Item Name="Analog in to Data.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/Analog in to Data.vi"/>
-				<Item Name="ASCII To String.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/ASCII To String.vi"/>
 				<Item Name="Command.ctl" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/CTLS/Command.ctl"/>
 				<Item Name="Creat ZDAQ AI Task.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Private/Creat/Creat ZDAQ AI Task.vi"/>
 				<Item Name="Creat ZDAQ CMD Task.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Private/Creat/Creat ZDAQ CMD Task.vi"/>
@@ -157,7 +157,6 @@
 				<Item Name="String To ASCII.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Public/String To ASCII.vi"/>
 				<Item Name="ZDAQ AI Read Single.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Private/Read/ZDAQ AI Read Single.vi"/>
 				<Item Name="ZDAQ Clear Task.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/ZDAQ Clear Task.vi"/>
-				<Item Name="ZDAQ Engine.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Private/Creat/ZDAQ Engine.vi"/>
 				<Item Name="ZDAQ MCU.ctl" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/CTLS/ZDAQ MCU.ctl"/>
 				<Item Name="ZDAQ Task.ctl" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/CTLS/ZDAQ Task.ctl"/>
 				<Item Name="ZDAQ_DEV_ALL_INFO_GET.vi" Type="VI" URL="/&lt;userlib&gt;/ZDAQ/Device/ZDAQ_DEV_ALL_INFO_GET.vi"/>
